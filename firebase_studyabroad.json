@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "studyabroadtestprep-ce307",
+  "private_key_id": "150233234f466c26f836fb3c91d6e555723b2023",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC1caKPEgiRsWNg\nx05eOV8AQxF/M4u6QEa2AHwYTrv9yfrW8tFZPa7vh1YMUNb9OSh2mc3RJ7AbHvVM\nw6j8WWjuLWhX4oeaqqW2s6+qFSWO7PAulDwIdqOJ43+uFqEOx0T0jc9bjemcuTYe\nLQSNGv4Ht8vbGU/FFGcKa3LFSViMLLwzWhHMjet16PVJayUtL9DKTZc7+8Qv729A\nZScYeIKmU24hsRnDlNL6B2lvEb4VHIUBdBy653Ze25C55X9Zifx89e3j3EK0SG0G\nDKVhY77E1DMT3OLQknCQuRbLvrXGqt5ywXYiEfzzZKqP2XSDvYlXilOH2KVMKJc1\n4RWxXYWdAgMBAAECggEAQScd1TwHgbFt2vmWZXU6bNCofsGWofmkqoQAC4ZyMM6P\nWRH2JJJmt7IkLuX0XRdiNTxDUKBst0BlmvwDOSIt8KCzgCNiyCIQwUtCf9N6Ghlw\noXkvGWbokIH1fiC4EqNxWlN1qw2JXnKPQUSvBrAzmbfg5rrvDvili3NL0hXlSufF\njQhw1ncqu2Z9WSlnyCq+E+BIFnOeQtizSWejj7UJJCY0tUwL3Rpel/Kti62t2bSb\nxZejkRdwSXFQxSghN85qCpX1W725o8AOPBdzG/6ryzlTf6FJOOknh5TQ4GYMwcGG\n9u+eLhUHwpo9LYZWFLI0/MR9s4g+nbFXOcNNYteI7QKBgQDyfOf2Agy8vjvt4WvI\n4m+Srj7Yjm7cZLO8NuHlRVisJx5SRpi4W+5vvG5SwrFnVqWaCQ18x9nc3ldilr9e\n++vK7f/1ueV/K67eiItKYpYU4SEppSGRmNIsNU1tQIJiPkB7amKkOP3vlvbosSSp\nH5gfpVp5MIi4XZN0cLGDt+YQlwKBgQC/je9UntmLjA0kTYtHQggc96pnRfsd9oS+\n+DTCZyZ8dzrX3yI+0i3TiMZ3txQCufS1tTClDeabhtSA6pUoVxhN+8mpmpNadyS2\nZrq/VRItfyvazva/SydmWAtlFYsuhBgCGgUEm1bj84HUii0JfsuBv5KtciZQcp0L\nll7eHERt6wKBgQDxsjRWzgY6HveHDPgtPB3vu0QjAB1aCfnosV+J8gwHU9pyMbHJ\nmMBZmRzx2uOO2BuqJDnQVTc/YlMBjrZjC4EkPQOyvr8UecsMPldwJkHnv9oZM2H5\nSLS8ochyDCmpmNkW6pw1iiT6KaQjnWWoOTic2mkKgKjV81elaSpW2vczMwKBgFOR\nKTsifce6VrViuwNgVEfG6Glbh10gAfOKNwIknA6quVoZ90euy91AC02I6kryM0be\ngBVRxixNmwGO1Xme3XSQBv9d9zD9T1/f21LDW0XL+CbiKZV0xQCKIpZ72pd1ez/X\neB71YefagOZnTZSZ41B8chIG/Z4VElxOwp5leJj3AoGBAN+N4BXe4/CukZODne9k\n5YgtiUxDDjqca0u1DSMqYVdYjaeHtGqRDJAG1PWvNFLodNKUacwS+XLEVPwckaeU\nZqWSMpqlLhZhCqiWI1h3elXiIf34og4Px8EsFTSfwks4XKnTT1JtRcWlFcq1uNgS\nnUkYIdnr93Y390B/P5xR8ZCP\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-trg3i@studyabroadtestprep-ce307.iam.gserviceaccount.com",
+  "client_id": "109837723119567173987",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-trg3i%40studyabroadtestprep-ce307.iam.gserviceaccount.com"
+}

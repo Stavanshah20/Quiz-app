@@ -1,0 +1,203 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+  }
+  body{
+    font-family: 'PT Sans', sans-serif;
+  }
+  header{
+      height: 100vh;
+      width: 100%;
+    background: linear-gradient(to top,rgba(0, 0, 0, 0.5)50%,rgba(0,0,0,0.5)50%),url("images/background.jpg");
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  nav{
+    height: 80px;
+    width: 100%;
+  }
+  label.logo{
+    color: white;
+    font-size: 35px;
+    line-height: 80px;
+    padding: 0 100px;
+    font-weight: bold;
+  }
+  nav ul{
+    float: right;
+    margin-right: 20px;
+  }
+  nav ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+  }
+  nav ul li a{
+    color: white;
+    font-size: 22px;
+    padding: 7px 13px;
+    border-radius: 3px;
+    text-transform: uppercase;
+    margin-right: 20px;
+  }
+  a:hover{
+    background: #1b9bff;
+    transition: .5s;
+  }
+  .checkbtn{
+    font-size: 30px;
+    color: white;
+    float: right;
+    line-height: 80px;
+    margin-right: 40px;
+    cursor: pointer;
+    display: none;
+  }
+  #check{
+    display: none;
+  }
+  .header-content{
+      color: whitesmoke;
+      width: 100%;
+      height: 80%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+  }
+  .header-content h1{
+      font-size: 5vmin;
+  }
+  /* Content writting */
+
+  /* .content{
+    margin-top: 50px;
+    padding: 10px 0px;
+    height: 100%;
+    width: 100%;
+  }
+  .content h1{
+    font-size: 6vmin;
+    text-align: center;
+    margin-top: 10px;
+  }
+  .rows{
+    display:flex;
+    background-color: rgb(219, 222, 224);
+    margin-top: 40px;
+  }
+  .images img{
+    width: 100%;
+    height: 40vh;
+    border-radius: 20px 20px 0px 0px;
+    margin-bottom: 0px;
+  }
+  .cols{
+    display:flex;
+    flex-direction: column;
+    border: 1px solid black;
+    text-align: center;
+    margin: 60px 40px;
+    border-radius: 20px 20px 20px 20px;
+    box-shadow: 1px 1px 10px 5px rgb(56, 55, 55);
+  }
+  .cols:hover{
+    box-shadow: 4px 4px 10px 5px rgb(56, 55, 55); 
+    cursor: pointer;
+  } */
+  .items{
+    /* border: 2px solid black; */
+    width: 100%;
+    padding: 20px 20px;
+    margin-top: 0px;
+    border-radius: 0px 0px 20px 20px;
+    background-color: rgb(247, 239, 223);
+
+  }
+  .items h3{
+    font-size: 2rem;
+    font-family: 'Baloo Bhai 2', cursive;
+  }
+  .items p{
+    font-size: .9rem;
+    margin-top: 15px;
+  }
+
+  .header-content a{
+    text-decoration: none;
+    color: whitesmoke;
+    border: 1px solid rgb(252, 242, 241);
+    background-color: #1b9bff;
+    /* background: none; */
+
+    font-size: 1.1rem;
+    font-family: sans-serif;
+    margin-top: 40px;
+    padding: 10px 40px;
+    border-radius: 30px;
+  }
+  
+.header-content a:hover{
+  background-color: rgb(83, 82, 82);
+}
+  @media (max-width: 952px){
+    label.logo{
+      font-size: 30px;
+      padding-left: 50px;
+    }
+    nav ul li a{
+      font-size: 16px;
+    }
+  }
+  @media (max-width: 400px){
+    label.logo{
+      font-size: 30px;
+      padding-left: 20px;
+    }
+    nav ul li a{
+      font-size: 16px;
+    }
+  }
+  @media (max-width: 858px){
+    .checkbtn{
+      display: block;
+    }
+    ul{
+      position: fixed;
+      width: 100%;
+      height: 100vh;
+      background: #2c3e50;
+      top: 80px;
+      left: -100%;
+      text-align: center;
+      transition: all .5s;
+    }
+    nav ul li{
+      display: block;
+      margin: 50px 0;
+      line-height: 30px;
+    }
+    nav ul li a{
+      font-size: 20px;
+    }
+    a:hover,a.active{
+      background: none;
+      color: #0082e6;
+    }
+    #check:checked ~ ul{
+      left: 0;
+    }
+    .rows{
+      flex-direction: column;
+    }
+  }
+  section{
+    background: url(bg1.jpg) no-repeat;
+    background-size: cover;
+    height: calc(100vh - 80px);
+  }
